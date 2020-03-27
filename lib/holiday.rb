@@ -52,7 +52,7 @@ def all_winter_holiday_supplies(holiday_hash)
     if season == :winter
       holiday.each do |supply|
       holiday.values
-      binding.pry
+     
       end
      end
    end    
